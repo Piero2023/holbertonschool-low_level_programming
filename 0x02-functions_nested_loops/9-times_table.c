@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * jack_bauer - print
+ * times_table - print
  *
  * Return: void
  */
