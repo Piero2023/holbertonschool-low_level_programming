@@ -2,7 +2,7 @@
 
 /**
  *swap_int - print
- *@aux:print
+ *@aux: print
  */
 
 void swap_int(int *a, int *b)
