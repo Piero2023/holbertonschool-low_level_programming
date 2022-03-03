@@ -2,9 +2,8 @@
 #include <stdlib.h>
 
 /**
- * malloc_checked - prototype
+ * malloc_checked - Entry point
  * @b: unsigned int
- * @p: pointer
  * Return: p
  */
 
