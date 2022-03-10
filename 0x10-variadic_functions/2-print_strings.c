@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * print_strings -print strings
+ * print_strings -print string
  * @separator: separator
  * @n:number of arguments
  * Return: the sum of the arguments
